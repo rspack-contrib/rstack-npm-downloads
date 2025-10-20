@@ -47,14 +47,17 @@ Some packages aren't meant to be installed or used on their own, so they're not 
 | @rsdoctor/webpack-plugin          | ![](https://img.shields.io/npm/dw/@rsdoctor/webpack-plugin.svg)          |
 | rsbuild-plugin-dts                | ![](https://img.shields.io/npm/dw/rsbuild-plugin-dts.svg)                |
 | @rslib/core                       | ![](https://img.shields.io/npm/dw/@rslib/core.svg)                       |
+| rspack-manifest-plugin            | ![](https://img.shields.io/npm/dw/rspack-manifest-plugin.svg)            |
+| eslint-rspack-plugin             | ![](https://img.shields.io/npm/dw/eslint-rspack-plugin.svg)             |
 | @rsbuild/plugin-babel             | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-babel.svg)             |
 | @rsbuild/plugin-less              | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-less.svg)              |
 | @rsbuild/plugin-styled-components | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-styled-components.svg) |
 | @rsbuild/plugin-assets-retry      | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-assets-retry.svg)      |
 | @rsbuild/plugin-css-minimizer     | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-css-minimizer.svg)     |
 | @rsbuild/plugin-typed-css-modules | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-typed-css-modules.svg) |
+| worker-rspack-loader              | ![](https://img.shields.io/npm/dw/worker-rspack-loader.svg)              |
 | @rspress/core                     | ![](https://img.shields.io/npm/dw/@rspress/core.svg)                     |
-| storybook-addon-rslib            | ![](https://img.shields.io/npm/dw/storybook-addon-rslib.svg)            |
+| storybook-addon-rslib             | ![](https://img.shields.io/npm/dw/storybook-addon-rslib.svg)             |
 | @rsbuild/plugin-eslint            | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-eslint.svg)            |
 | @rsbuild/plugin-basic-ssl         | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-basic-ssl.svg)         |
 | @rsbuild/plugin-mdx               | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-mdx.svg)               |
@@ -75,6 +78,7 @@ Some packages aren't meant to be installed or used on their own, so they're not 
 | create-rstack                    | ![](https://img.shields.io/npm/dw/create-rstack.svg)                    |
 | @rsbuild/plugin-vue              | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-vue.svg)              |
 | @rspress/plugin-rss              | ![](https://img.shields.io/npm/dw/@rspress/plugin-rss.svg)              |
+| rspack-chain                     | ![](https://img.shields.io/npm/dw/rspack-chain.svg)                     |
 | @rspress/plugin-sitemap          | ![](https://img.shields.io/npm/dw/@rspress/plugin-sitemap.svg)          |
 | @rslint/core                     | ![](https://img.shields.io/npm/dw/@rslint/core.svg)                     |
 | @rspress/plugin-preview          | ![](https://img.shields.io/npm/dw/@rspress/plugin-preview.svg)          |
