@@ -54,6 +54,7 @@ Some packages aren't meant to be installed or used on their own, so they're not 
 | @rsbuild/plugin-css-minimizer     | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-css-minimizer.svg)     |
 | @rsbuild/plugin-typed-css-modules | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-typed-css-modules.svg) |
 | @rspress/core                     | ![](https://img.shields.io/npm/dw/@rspress/core.svg)                     |
+| storybook-addon-rslib            | ![](https://img.shields.io/npm/dw/storybook-addon-rslib.svg)            |
 | @rsbuild/plugin-eslint            | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-eslint.svg)            |
 | @rsbuild/plugin-basic-ssl         | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-basic-ssl.svg)         |
 | @rsbuild/plugin-mdx               | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-mdx.svg)               |
