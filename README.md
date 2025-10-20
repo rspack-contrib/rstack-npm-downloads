@@ -1,9 +1,8 @@
 # rstack-npm-downloads
 
+Download statistics for all npm packages mainted by [Rstack team](https://rspack.rs/misc/team/core-team).
 
-
-Some packages aren't meant to be installed or used on their own, so they're not included in the list.
- (e.g. `@rspack/binding`)
+Some packages aren't meant to be installed or used on their own, so they're not included in the list. (e.g. `@rspack/binding`)
 
 ## 1M+
 
@@ -95,6 +94,8 @@ Some packages aren't meant to be installed or used on their own, so they're not 
 | create-rsbuild                   | ![](https://img.shields.io/npm/dw/create-rsbuild.svg)                   |
 | @rspress/plugin-typedoc          | ![](https://img.shields.io/npm/dw/@rspress/plugin-typedoc.svg)          |
 | storybook-vue3-rsbuild           | ![](https://img.shields.io/npm/dw/storybook-vue3-rsbuild.svg)           |
+| @rsbuild/plugin-umd              | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-umd.svg)              |
 | @rsbuild/plugin-svelte           | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-svelte.svg)           |
 | create-rslib                     | ![](https://img.shields.io/npm/dw/create-rslib.svg)                     |
 | @rspack/browser                  | ![](https://img.shields.io/npm/dw/@rspack/browser.svg)                  |
+| @rspack/resolver                 | ![](https://img.shields.io/npm/dw/@rspack/resolver.svg)                 |
