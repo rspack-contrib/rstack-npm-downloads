@@ -33,6 +33,7 @@ Some packages aren't meant to be installed or used on their own, so they're not 
 | @rsbuild/plugin-check-syntax        | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-check-syntax.svg)        |
 | @rsdoctor/rspack-plugin             | ![](https://img.shields.io/npm/dw/@rsdoctor/rspack-plugin.svg)             |
 | @rsbuild/plugin-type-check          | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-type-check.svg)          |
+| browserslist-to-es-version        | ![](https://img.shields.io/npm/dw/browserslist-to-es-version.svg)        |
 | storybook-builder-rsbuild           | ![](https://img.shields.io/npm/dw/storybook-builder-rsbuild.svg)           |
 | rsbuild-plugin-html-minifier-terser | ![](https://img.shields.io/npm/dw/rsbuild-plugin-html-minifier-terser.svg) |
 | @rsbuild/plugin-sass                | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-sass.svg)                |
@@ -48,7 +49,7 @@ Some packages aren't meant to be installed or used on their own, so they're not 
 | rsbuild-plugin-dts                | ![](https://img.shields.io/npm/dw/rsbuild-plugin-dts.svg)                |
 | @rslib/core                       | ![](https://img.shields.io/npm/dw/@rslib/core.svg)                       |
 | rspack-manifest-plugin            | ![](https://img.shields.io/npm/dw/rspack-manifest-plugin.svg)            |
-| eslint-rspack-plugin             | ![](https://img.shields.io/npm/dw/eslint-rspack-plugin.svg)             |
+| eslint-rspack-plugin              | ![](https://img.shields.io/npm/dw/eslint-rspack-plugin.svg)              |
 | @rsbuild/plugin-babel             | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-babel.svg)             |
 | @rsbuild/plugin-less              | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-less.svg)              |
 | @rsbuild/plugin-styled-components | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-styled-components.svg) |
