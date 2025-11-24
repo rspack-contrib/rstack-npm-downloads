@@ -12,20 +12,20 @@ Some packages aren't meant to be installed or used on their own, so they're not 
 | @rspack/lite-tapable         | ![](https://img.shields.io/npm/dw/@rspack/lite-tapable.svg)         |
 | rslog                        | ![](https://img.shields.io/npm/dw/rslog.svg)                        |
 | @rspack/plugin-react-refresh | ![](https://img.shields.io/npm/dw/@rspack/plugin-react-refresh.svg) |
+| @rspack/dev-server           | ![](https://img.shields.io/npm/dw/@rspack/dev-server.svg)           |
 
 ## 500k - 1000k
 
 | Package                  | Downloads                                                       |
 | ------------------------ | --------------------------------------------------------------- |
-| @rspack/dev-server       | ![](https://img.shields.io/npm/dw/@rspack/dev-server.svg)       |
 | ts-checker-rspack-plugin | ![](https://img.shields.io/npm/dw/ts-checker-rspack-plugin.svg) |
 | @rsbuild/core            | ![](https://img.shields.io/npm/dw/@rsbuild/core.svg)            |
+| @rspack/cli              | ![](https://img.shields.io/npm/dw/@rspack/cli.svg)              |
 
 ## 100k - 500k
 
 | Package                             | Downloads                                                                  |
 | ----------------------------------- | -------------------------------------------------------------------------- |
-| @rspack/cli                         | ![](https://img.shields.io/npm/dw/@rspack/cli.svg)                         |
 | @rsbuild/plugin-react               | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-react.svg)               |
 | @rsdoctor/core                      | ![](https://img.shields.io/npm/dw/@rsdoctor/core.svg)                      |
 | reduce-configs                      | ![](https://img.shields.io/npm/dw/reduce-configs.svg)                      |
@@ -33,11 +33,12 @@ Some packages aren't meant to be installed or used on their own, so they're not 
 | @rsbuild/plugin-check-syntax        | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-check-syntax.svg)        |
 | @rsdoctor/rspack-plugin             | ![](https://img.shields.io/npm/dw/@rsdoctor/rspack-plugin.svg)             |
 | @rsbuild/plugin-type-check          | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-type-check.svg)          |
-| browserslist-to-es-version        | ![](https://img.shields.io/npm/dw/browserslist-to-es-version.svg)        |
+| browserslist-to-es-version          | ![](https://img.shields.io/npm/dw/browserslist-to-es-version.svg)          |
 | storybook-builder-rsbuild           | ![](https://img.shields.io/npm/dw/storybook-builder-rsbuild.svg)           |
 | rsbuild-plugin-html-minifier-terser | ![](https://img.shields.io/npm/dw/rsbuild-plugin-html-minifier-terser.svg) |
 | @rsbuild/plugin-sass                | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-sass.svg)                |
 | storybook-react-rsbuild             | ![](https://img.shields.io/npm/dw/storybook-react-rsbuild.svg)             |
+| @rsdoctor/webpack-plugin            | ![](https://img.shields.io/npm/dw/@rsdoctor/webpack-plugin.svg)            |
 | @rsbuild/plugin-node-polyfill       | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-node-polyfill.svg)       |
 | @rsbuild/plugin-svgr                | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-svgr.svg)                |
 
@@ -45,7 +46,6 @@ Some packages aren't meant to be installed or used on their own, so they're not 
 
 | Package                           | Downloads                                                                |
 | --------------------------------- | ------------------------------------------------------------------------ |
-| @rsdoctor/webpack-plugin          | ![](https://img.shields.io/npm/dw/@rsdoctor/webpack-plugin.svg)          |
 | rsbuild-plugin-dts                | ![](https://img.shields.io/npm/dw/rsbuild-plugin-dts.svg)                |
 | @rslib/core                       | ![](https://img.shields.io/npm/dw/@rslib/core.svg)                       |
 | rspack-manifest-plugin            | ![](https://img.shields.io/npm/dw/rspack-manifest-plugin.svg)            |
