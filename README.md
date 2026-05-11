@@ -10,30 +10,30 @@ Some packages aren't meant to be installed or used on their own, so they're not 
 | ---------------------------- | ------------------------------------------------------------------- |
 | @rspack/core                 | ![](https://img.shields.io/npm/dw/@rspack/core.svg)                 |
 | @rspack/lite-tapable         | ![](https://img.shields.io/npm/dw/@rspack/lite-tapable.svg)         |
-| rslog                        | ![](https://img.shields.io/npm/dw/rslog.svg)                        |
 | @rspack/plugin-react-refresh | ![](https://img.shields.io/npm/dw/@rspack/plugin-react-refresh.svg) |
 | @rspack/dev-server           | ![](https://img.shields.io/npm/dw/@rspack/dev-server.svg)           |
 | ts-checker-rspack-plugin     | ![](https://img.shields.io/npm/dw/ts-checker-rspack-plugin.svg)     |
+| @rsbuild/core         | ![](https://img.shields.io/npm/dw/@rsbuild/core.svg)         |
+| @rspack/cli           | ![](https://img.shields.io/npm/dw/@rspack/cli.svg)           |
+| rslog                        | ![](https://img.shields.io/npm/dw/rslog.svg)                        |
 
 ## 500k - 1000k
 
 | Package               | Downloads                                                    |
 | --------------------- | ------------------------------------------------------------ |
-| @rsbuild/core         | ![](https://img.shields.io/npm/dw/@rsbuild/core.svg)         |
-| @rspack/cli           | ![](https://img.shields.io/npm/dw/@rspack/cli.svg)           |
 | @rsbuild/plugin-react | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-react.svg) |
 | @rsdoctor/core        | ![](https://img.shields.io/npm/dw/@rsdoctor/core.svg)        |
+| reduce-configs                      | ![](https://img.shields.io/npm/dw/reduce-configs.svg)                      |
+| browserslist-load-config            | ![](https://img.shields.io/npm/dw/browserslist-load-config.svg)            |
+| @rsbuild/plugin-check-syntax        | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-check-syntax.svg)        |
+| @rsdoctor/rspack-plugin             | ![](https://img.shields.io/npm/dw/@rsdoctor/rspack-plugin.svg)             |
+| browserslist-to-es-version          | ![](https://img.shields.io/npm/dw/browserslist-to-es-version.svg)          |
 
 ## 100k - 500k
 
 | Package                             | Downloads                                                                  |
 | ----------------------------------- | -------------------------------------------------------------------------- |
-| reduce-configs                      | ![](https://img.shields.io/npm/dw/reduce-configs.svg)                      |
-| browserslist-load-config            | ![](https://img.shields.io/npm/dw/browserslist-load-config.svg)            |
-| @rsbuild/plugin-check-syntax        | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-check-syntax.svg)        |
-| @rsdoctor/rspack-plugin             | ![](https://img.shields.io/npm/dw/@rsdoctor/rspack-plugin.svg)             |
 | @rsbuild/plugin-type-check          | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-type-check.svg)          |
-| browserslist-to-es-version          | ![](https://img.shields.io/npm/dw/browserslist-to-es-version.svg)          |
 | storybook-builder-rsbuild           | ![](https://img.shields.io/npm/dw/storybook-builder-rsbuild.svg)           |
 | rsbuild-plugin-html-minifier-terser | ![](https://img.shields.io/npm/dw/rsbuild-plugin-html-minifier-terser.svg) |
 | @rsbuild/plugin-sass                | ![](https://img.shields.io/npm/dw/@rsbuild/plugin-sass.svg)                |
